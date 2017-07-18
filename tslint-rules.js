@@ -68,7 +68,7 @@ module.exports = {
     ],
     "quotemark": [false, "double", "jsx-double", "avoid-escape"],
     "radix": true,
-    "semicolon": true,
+    "semicolon": false,
     "switch-default": false,
     "trailing-comma": [true, {
       "singleline": "never",
