@@ -39,7 +39,7 @@
     "gulp-sass-lint": "1.2.0",
     "gulp-sourcemaps": "2.0.0-alpha",
     "gulp-tslint": "6.1.1",
-    "gulp-typescript": "2.13.6",
+    "gulp-typescript": "^3.2.1",
     "gulp-util": "3.0.7",
     "gulp-watch": "4.3.9",
     "json-loader": "0.5.4",
